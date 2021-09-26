@@ -1,6 +1,6 @@
 {
   "name": "@cettox/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal Prettier config, forked from https://github.com/azz/prettier-config",
   "main": "index.json",
   "repository": "git@github.com:cettox/prettier-config.git",
