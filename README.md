@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@cettox/prettier-config@1.0.0`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --dev @cettox/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@cettox/prettier-config"
 }
 ```
